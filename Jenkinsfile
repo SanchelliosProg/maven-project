@@ -7,7 +7,7 @@ pipeline {
     }
 
     tools {
-        maven 'Default maven'
+        maven "Default maven"
     }
 
     triggers {
